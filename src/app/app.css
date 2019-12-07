@@ -1,0 +1,29 @@
+/*Global CSS rules*/
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 1.8rem;
+  color: #242424;
+  margin: 0;
+  padding: 0;
+}
+.header{
+  padding: 20px;
+  margin: 20px;
+
+}
+.header >nav > a{
+  padding: 20px;
+  border: 1px solid antiquewhite;
+  font-size: 14px;
+  margin: 10px;
+  background: burlywood;
+  font-weight: bold;
+  border-radius: 10px;
+  color: #352e32;
+
+}

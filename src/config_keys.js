@@ -1,0 +1,2 @@
+const API_KEY='ZjY2NTY2YTktMWRmYi00MzAyLWI2OTQtNTMwOTJiMzEzODFm'
+export default API_KEY;
