@@ -1,12 +1,6 @@
 # React boilerplate
 
-For detailed info
-please read the blog where I have discussed this in details.
-
-https://medium.com/@ankitsharma6466/building-react-app-part-2-architecture-boilerplate-683b992089a6
-
-## Quick Steps
-
+## Quick Step
 ### setup
 `yarn install`
 
