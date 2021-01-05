@@ -8,7 +8,7 @@
     "@cognite/griff-react": "^0.5.0-rc.57",
     "@cognite/sdk": "^2.6.1",
     "antd": "^3.24.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "react": "^16.2.0",
     "react-bootstrap": "^1.0.0-beta.14",
